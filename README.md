@@ -2,13 +2,13 @@
 
 Bienvenue sur mon espace GitHub.
 
-Je suis EKANGA MBIDA Saint Wilfried,étudiant en microbiologie médicale et en biostatistique, avec un intérêt marqué pour l’analyse des données de santé et de recherche biomédicale. Je suis actuellement en cours de certification Data Analyst Associate, dans l’objectif de renforcer mes compétences en analyse de données, en statistiques appliquées et en interprétation des résultats.
+Je suis EKANGA MBIDA Saint Wilfried,étudiant en **Microbiologie médicale** et en **Biostatistique**, avec un intérêt marqué pour l’analyse des données de santé et de recherche biomédicale. Je suis actuellement en cours de certification **Data Analyst Associate**, dans l’objectif de renforcer mes compétences en analyse de données, en statistiques appliquées et en interprétation des résultats.
 
 Ce GitHub a pour vocation de centraliser mes travaux académiques, mes projets pratiques et mes exercices méthodologiques, dans une démarche rigoureuse et orientée recherche.
 
 ## Profil académique
 
-Je suis licencie d'un diplome en Techniques d'Analyse Biomédicale avec un intérêt prononcé pour l’analyse de données appliquée à la Santé, à la Biostatistique**, à l’Epidémiologie** et à la Microbiologie médicale**. Mon travail vise à exploiter les données quantitatives pour répondre à des problématiques de santé publique et de recherche biomédicale, avec une attention particulière portée à la rigueur méthodologique, à l’analyse critique des résultats et à la reproductibilité scientifique.
+Je suis licencie d'un diplome en **Techniques d'Analyse Biomédicale** avec un intérêt prononcé pour l’analyse de données appliquée à la Santé, à la **Biostatistique**, à l’**Epidémiologie** et à la **Microbiologie médicale**. Mon travail vise à exploiter les données quantitatives pour répondre à des problématiques de santé publique et de recherche biomédicale, avec une attention particulière portée à la rigueur méthodologique, à l’analyse critique des résultats et à la reproductibilité scientifique.
 
 Je travaille régulièrement sur des bases de données de santé (IMC, activité physique, incidence de maladies, facteurs de risque) ainsi que sur des questions liées aux essais cliniques, à l’interprétation statistique et à la microbiologie médicale.
 
