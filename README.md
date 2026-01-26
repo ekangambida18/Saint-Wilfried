@@ -2,7 +2,7 @@
 
 Bienvenue sur mon espace GitHub.
 
-Je suis EKANGA MBIDA Saint Wilfried,étudiant en **Microbiologie médicale** et en **Biostatistique**, avec un intérêt marqué pour l’analyse des données de santé et de recherche biomédicale. Je suis actuellement en cours de certification **Data Analyst Associate**, dans l’objectif de renforcer mes compétences en analyse de données, en statistiques appliquées et en interprétation des résultats.
+Je suis EKANGA MBIDA Saint Wilfried,étudiant en **Microbiologie médicale** et en **Biostatistique**, avec un intérêt marqué pour l’analyse des données de santé et de recherche biomédicale. Je suis actuellement en cours de certification **Data Analyst Associate** et en formation en analytique des données, dans l’objectif de renforcer mes compétences en analyse de données, en statistiques appliquées et en interprétation des résultats.
 
 Ce GitHub a pour vocation de centraliser mes travaux académiques, mes projets pratiques et mes exercices méthodologiques, dans une démarche rigoureuse et orientée recherche.
 
@@ -41,7 +41,7 @@ Je travaille régulièrement sur des bases de données de santé (IMC, activité
 * Transformation et catégorisation de variables 
 * Analyse critique des résultats statistiques en contexte biomédical
 
----
+--- 
 
 ## Contenu des dépôts
 
@@ -64,6 +64,10 @@ Une attention particulière est accordée à :
 
 ---
 
+## Projets récents 
+https://github.com/ekangambida18/Analyse-EM
+https://github.com/ekangambida18/ Analyse-FR
+
 ## Perspectives d’apprentissage
 
 * Analyses multivariées avancées en santé
@@ -75,6 +79,7 @@ Une attention particulière est accordée à :
 ## Contact
 
 Email: saintwilfriedekanga@gmail.com
+Linkedin : https://www.linkedin.com/saint-wilfried-ekanga-0154492b0
 
 Ce dépôt GitHub a vocation à documenter mon parcours académique et mes travaux. Les échanges scientifiques et méthodologiques sont les bienvenus.
 
