@@ -65,7 +65,7 @@ Une attention particulière est accordée à :
 ---
 
 ## Projets récents 
-https://github.com/ekangambida18/Épidémiologie-python
+https://github.com/ekangambida18/Epidemiologie-python
 https://github.com/ekangambida18/New
 
 ## Perspectives d’apprentissage
